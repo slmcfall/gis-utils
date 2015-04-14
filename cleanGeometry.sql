@@ -1,5 +1,7 @@
+--
 -- An updated cleanGeometry(), by Tim Sutton
 -- Original found here: http://linfiniti.com/2010/07/cleaning-geometries-inside-postgis/
+--
 
 --
 -- PostgreSQL database dump
